@@ -2,7 +2,7 @@
 Basic C++ Logger
 
 
-```
+```cpp
 setLevel(int code);
 ```
 - The logging level to be set.
